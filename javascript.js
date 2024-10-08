@@ -1,14 +1,4 @@
-console.log("start");
-console.log("middle");
-console.log("end");
+console.log("first node commond");
+// to excute any js file type commond " node filename.js"
 
-
-// output   =>
-    // start 
-    // middle
-    // end
-
-console.log("start");
-console.log("middle");
-
-console.log("end");
+// ? mentoining extention in the commond is not mondatory.
